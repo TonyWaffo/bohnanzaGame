@@ -1,2 +1,5 @@
 # bohnanzaGame
 The Bonanza game principles revolve around card management, trading, and strategic planning. Players must plant, harvest, and sell beans from their hands and fields, with the goal of earning the most coins. The game challenges players to make decisions on which beans to plant, when to harvest, and how to best utilize their limited field spaces. Trading with the opponent is crucial for optimizing hand and field management. The dynamics of supply and demand in the bean market, along with the timing of trades and harvests, are central to mastering the game.
+
+
+The Bonanza game project demonstrates proficiency in C++ through object-oriented programming, encapsulation, inheritance, and polymorphism. It utilizes the Standard Template Library (STL) for data structures and algorithms, showcasing skills in dynamic memory management, file I/O for game state persistence, and exception handling for robust error management. The project also exemplifies the use of advanced C++ features like smart pointers and templates, indicating a deep understanding of modern C++ programming practices and principles.
