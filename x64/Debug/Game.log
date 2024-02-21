@@ -1,0 +1,18 @@
+﻿  Game.cpp
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Player.h(430,22): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Player.h(434,22): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Player.h(438,22): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Player.h(442,20): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\TradeArea.h(115,7): warning C4101: 'answer': unreferenced local variable
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Game.cpp(230,27): warning C4101: 'ex': unreferenced local variable
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Black.h(35): warning C4715: 'Black::getCardsPerCoin': not all control paths return a value
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Blue.h(40): warning C4715: 'Blue::getCardsPerCoin': not all control paths return a value
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Garden.h(29): warning C4715: 'Garden::getCardsPerCoin': not all control paths return a value
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Green.h(34): warning C4715: 'Green::getCardsPerCoin': not all control paths return a value
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Red.h(33): warning C4715: 'Red::getCardsPerCoin': not all control paths return a value
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Soy.h(36): warning C4715: 'Soy::getCardsPerCoin': not all control paths return a value
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Chili.h(42): warning C4715: 'Chili::getCardsPerCoin': not all control paths return a value
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Stink.h(37): warning C4715: 'Stink::getCardsPerCoin': not all control paths return a value
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Hand.h(95): warning C4715: 'Hand::operator[]': not all control paths return a value
+C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\Player.h(364): warning C4715: 'Player::createChain': not all control paths return a value
+  Game.vcxproj -> C:\Users\Tony\Desktop\Cours automne 2023\CSI 2772\Project\bohnanza\x64\Debug\Game.exe
